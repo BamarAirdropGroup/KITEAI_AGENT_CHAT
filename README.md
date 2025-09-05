@@ -7,6 +7,11 @@ KITE AI CHAT BOT
   - AI AGENT CHAT BOT DAILY POINT 100 MAX
 
 
+*** Clone the repo
+
+git clone https://github.com/BamarAirdropGroup/KITEAI_AGENT_CHAT.git && cd KITEAI_AGENT_CHAT && pip install -r requirements.txt
+
+
 *** Add private key in accounts.txt (one key per line)
 
 nano accounts.txt
